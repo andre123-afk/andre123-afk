@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola, soy Andres Rueda! 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00ffa3&height=230&section=header&text=Andres%20Rueda&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20" width="100%" />
 
 <p align="center">
-  Desarrollador en formación apasionado por la programación y la automatización de procesos 🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Desarrollador+Java+%26+Python;Automatizaci%C3%B3n+de+procesos+con+n8n;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -11,18 +11,28 @@
   <a href="mailto:ruedaf830@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ruedaf830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=andre123-afk&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de desarrollo de software, siempre aprendiendo algo nuevo.
-- ☕ Trabajo con **Java** creando aplicaciones y juegos (por ejemplo, un juego de billar *8 Ball Pool* con mesas, apuestas, perfiles y amigos).
+```java
+public class AndresRueda {
+    String rol = "Estudiante de desarrollo de software";
+    String[] stack = {"Java", "Python", "n8n", "Git", "GitHub"};
+    String enfoque = "Aplicaciones, juegos y automatización";
+
+    public void hoy() {
+        mejorarProyectos();
+        aprenderBuenasPracticas();
+    }
+}
+```
+
+- ☕ Creo aplicaciones y juegos con **Java**, como un juego de billar *8 Ball Pool* con mesas, apuestas, perfiles y amigos.
 - ⚙️ He trabajado con **n8n** automatizando flujos de trabajo e integrando servicios.
 - 🐍 También practico con **Python**.
-- 🌱 Actualmente mejorando mis proyectos y aprendiendo buenas prácticas de código.
 - 📫 ¿Quieres colaborar o charlar? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andres-rueda-374aa83b1/) o a **ruedaf830@gmail.com**
 
 ---
@@ -64,19 +74,6 @@
 
 ---
 
-## 📬 Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andres-rueda-374aa83b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Andres%20Rueda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ruedaf830@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ruedaf830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## 📄 Mi hoja de vida
 
 <p align="center">
@@ -88,3 +85,5 @@
 <p align="center">
   ⭐ Si te gusta alguno de mis proyectos, ¡regálame una estrella!
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffa3,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
