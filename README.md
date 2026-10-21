@@ -46,6 +46,8 @@
 | 🎱 [8 Ball Pool (Java)](https://github.com/andre123-afk/8-ball-pool-felizin.git) | Juego de billar con mesas, apuestas, tacos, cajas, perfiles y amigos. |
 | 🍽️ [Restaurante_campuslands](https://github.com/andre123-afk/Restaurante_campuslands) | Proyecto de gestión para un restaurante. |
 | 🌿 [ecomarket](https://github.com/andre123-afk/andre123-afk-ecomarket_andres_rueda.git) | Proyecto de tienda ecológica. |
+| ⚔️ [Azaroth](https://github.com/andreycasadiego05-netizen/Azaroth.git) | Proyecto Azaroth. |
+| 🎤 [Concierto](https://github.com/andreycasadiego05-netizen/Proyecto_Conciertos_ArevaloThomas_RuedaAndres.git) | Proyecto de gestión de conciertos, desarrollado en equipo. |
 
 ---
 
