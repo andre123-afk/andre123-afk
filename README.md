@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/andres-rueda-374aa83b1">
+  <a href="https://www.linkedin.com/in/andres-rueda-374aa83b1/">
     <img src="https://img.shields.io/badge/LinkedIn-Andres%20Rueda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ruedaf830@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ruedaf830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=andre123-afk&style=for-the-badge&color=blue" />
 </p>
@@ -20,7 +23,7 @@
 - ⚙️ He trabajado con **n8n** automatizando flujos de trabajo e integrando servicios.
 - 🐍 También practico con **Python**.
 - 🌱 Actualmente mejorando mis proyectos y aprendiendo buenas prácticas de código.
-- 📫 ¿Quieres colaborar o charlar? Escríbeme por LinkedIn.
+- 📫 ¿Quieres colaborar o charlar? Escríbeme por [LinkedIn](https://www.linkedin.com/in/andres-rueda-374aa83b1/) o a **ruedaf830@gmail.com**
 
 ---
 
@@ -60,12 +63,17 @@
 
 ---
 
+## 📬 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andres-rueda-374aa83b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Andres%20Rueda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ruedaf830@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ruedaf830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   ⭐ Si te gusta alguno de mis proyectos, ¡regálame una estrella!
 </p>
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
