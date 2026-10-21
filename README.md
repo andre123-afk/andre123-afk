@@ -43,10 +43,9 @@
 
 | Proyecto | Descripción |
 |----------|-------------|
-| 🎱 **8 Ball Pool (Java)** | Juego de billar con mesas, apuestas, tacos, cajas, perfiles y amigos. |
+| 🎱 [8 Ball Pool (Java)](https://github.com/andre123-afk/8-ball-pool-felizin.git) | Juego de billar con mesas, apuestas, tacos, cajas, perfiles y amigos. |
 | 🍽️ [Restaurante_campuslands](https://github.com/andre123-afk/Restaurante_campuslands) | Proyecto de gestión para un restaurante. |
-| 🌿 [ecomarket](https://github.com/andre123-afk/andre123-afk-ecomarket-andres-rueda) | Proyecto de tienda ecológica. |
-| 🐍 [examen](https://github.com/andre123-afk/examen) | Ejercicios y práctica en Python. |
+| 🌿 [ecomarket](https://github.com/andre123-afk/andre123-afk-ecomarket_andres_rueda.git) | Proyecto de tienda ecológica. |
 
 ---
 
@@ -71,6 +70,16 @@
   </a>
   <a href="mailto:ruedaf830@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ruedaf830%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📄 Mi hoja de vida
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1NVJLYHiEh6HBWxYx9cW6XXAdwHKLch1s/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Hoja%20de%20vida-Ver%20HDV-34A853?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
 
